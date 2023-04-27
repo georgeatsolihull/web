@@ -20,8 +20,8 @@
             <br>Unit Work:
         </p>
         <ul>
-            <li><a href="/work/u1a1.pdf">Assingment 1: Communication & Employment Attributes and Barriers</a> - <b>Merit*</b></li>
-            <li><a href="/work/u1a2.pdf">Assigmment 2: Communication & Employment Personal Development Plans, reviewing documents and using IT to communicate technical information</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u1a1.pdf">Assingment 1: Communication & Employment Attributes and Barriers</a> - <b>Merit*</b></li>
+            <li><a href="https://collegework.ghott.me/u1a2.pdf">Assigmment 2: Communication & Employment Personal Development Plans, reviewing documents and using IT to communicate technical information</a> - <b>Distinction</b></li>
             <li><a href="https://georgeatsolihull.github.io/blog/posts/barriers-to-communication/">Blog Post</a></li>
         </ul>
 
@@ -32,8 +32,8 @@
             <br>Unit Work:
         </p>
         <ul>
-            <li><a href="/work/u2a1.pdf">Assingment 1: Decoding the Jargon</a> - <b>Distinction</b></li>
-            <li><a href="/work/u2a2.pdf">Assingment 2: The Best Solution</a> - <b>Merit*</b></li>
+            <li><a href="https://collegework.ghott.me/u2a1.pdf">Assingment 1: Decoding the Jargon</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u2a2.pdf">Assingment 2: The Best Solution</a> - <b>Merit*</b></li>
         </ul>
 
         <br>
@@ -43,8 +43,8 @@
             <br>Unit Work:
         </p>
         <ul>
-            <li><a href="/work/u6a1.pdf">Assingment 1: Which Language?</a> - <b>Merit*</b></li>
-            <li><a href="/work/u6a2.pdf">Assingment 2: Design Workshop</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u6a1.pdf">Assingment 1: Which Language?</a> - <b>Merit*</b></li>
+            <li><a href="https://collegework.ghott.me/u6a2.pdf">Assingment 2: Design Workshop</a> - <b>Distinction</b></li>
         </ul>
 
         <br>
@@ -54,8 +54,8 @@
             <br>Unit Work:
         </p>
         <ul>
-            <li><a href="/work/u7a1.pdf">Assingment 1: Security Trade Show</a> - <b>Distinction</b></li>
-            <li><a href="/work/u7a2.pdf">Assingment 2: Systems Security Issues</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u7a1.pdf">Assingment 1: Security Trade Show</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u7a2.pdf">Assingment 2: Systems Security Issues</a> - <b>Distinction</b></li>
             <li><a href="https://github.com/georgeatsolihull/btec-aes">My Kotlin AES implementation</a></li>
         </ul>
 
@@ -66,8 +66,8 @@
             <br>Unit Work:
         </p>
         <ul>
-            <li><a href="/work/u8a1.pdf">Assingment 1: Why e-commerce?</a> - <b>Distinction</b></li>
-            <li><a href="/work/u8a2.pdf">Assingment 2: Consumer Guide</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u8a1.pdf">Assingment 1: Why e-commerce?</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u8a2.pdf">Assingment 2: Consumer Guide</a> - <b>Distinction</b></li>
         </ul>
 
         <br>
@@ -77,9 +77,9 @@
             <br>Unit Work:
         </p>
         <ul>
-            <li><a href="/work/u9a1.pdf">Assingment 1: Types of Networks and Network Protocols</a> - <b>Merit*</b></li>
-            <li><a href="/work/u9a2.pdf">Assingment 2: Network Hardware</a> - <b>Distinction</b></li>
-            <li><a href="/work/u9a3.pdf">Assingment 3: Network Services and Security</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u9a1.pdf">Assingment 1: Types of Networks and Network Protocols</a> - <b>Merit*</b></li>
+            <li><a href="https://collegework.ghott.me/u9a2.pdf">Assingment 2: Network Hardware</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u9a3.pdf">Assingment 3: Network Services and Security</a> - <b>Distinction</b></li>
         </ul>
 
         <br>
@@ -89,8 +89,8 @@
             <br>Unit Work:
         </p>
         <ul>
-            <li><a href="/work/u10a1.pdf">Assingment 1: From End to End</a> - <b>Distinction</b></li>
-            <li><a href="/work/u10a2.pdf">Assingment 2: Getting the Message</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u10a1.pdf">Assingment 1: From End to End</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u10a2.pdf">Assingment 2: Getting the Message</a> - <b>Distinction</b></li>
         </ul>
 
         <br>
@@ -100,8 +100,8 @@
             <br>Unit Work:
         </p>
         <ul>
-            <li><a href="/work/u28a1.pdf">Assingment 1: Creating the Website</a> - <b>Distinction</b></li>
-            <li><a href="/work/u28a2.pdf">Assingment 2: How the Web Works</a> - <b>Distinction</b></li>            
+            <li><a href="https://collegework.ghott.me/u28a1.pdf">Assingment 1: Creating the Website</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u28a2.pdf">Assingment 2: How the Web Works</a> - <b>Distinction</b></li>            
             <li><a href="https://github.com/georgeatsolihull/surya">Surya Real Estate</a></li>            
 
         </ul>
@@ -113,8 +113,8 @@
             <br>Unit Work:
         </p>
         <ul>
-            <li><a href="/work/u36a1.pdf">Assingment 1: Making it Run</a> - <b>Distinction</b></li>
-            <li><a href="/work/u36a2.pdf">Assingment 2: Current Hardware Technologies</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u36a1.pdf">Assingment 1: Making it Run</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u36a2.pdf">Assingment 2: Current Hardware Technologies</a> - <b>Distinction</b></li>
         </ul>
     </div>
 </section>
