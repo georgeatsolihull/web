@@ -11,7 +11,7 @@
     <div class="content">
         <h1><b>/</b> Quick Note</h1>
         <p>
-            This is a list of every unit that I did, including assignments and grades. Currently, only my Year 1 work is available. You may notice my style differs a lot, I went from using a basic MS word template, to my own MS template to using LaTeX. I love my final LaTeX template, I think it looks the best out of them all. I also think the quality of my Year 1 work was pretty poor. I am loads happier with my Year 2 work.
+            This is a list of every unit that I did, including assignments and grades. You may notice my style differs a lot, I went from using a basic MS word template, to my own MS template to using LaTeX. I love my final LaTeX template, I think it looks the best out of them all. I also think the quality of my Year 1 work was pretty poor. I am loads happier with my Year 2 work.
         </p>
         
         <h3><b>/</b> Unit 1: Communications and Employability Skills - Year 1</h3>
@@ -34,6 +34,29 @@
         <ul>
             <li><a href="https://collegework.ghott.me/u2a1.pdf">Assignment 1: Decoding the Jargon</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u2a2.pdf">Assignment 2: The Best Solution</a> - <b>Merit*</b></li>
+        </ul>
+
+        <br>
+        <h3><b>/</b> Unit 3: Information Systems - Year 2</h3>
+        <p>
+            Grade: <b>Distinction</b>
+            <br>Unit Work:
+        </p>
+        <ul>
+            <li><a href="https://collegework.ghott.me/u3a1.pdf">Assignment 1: Good Information</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u3a2.pdf">Assignment 2: The Issues Related to the Use of Information</a> - <b>Merit*</b></li>
+            <li><a href="https://collegework.ghott.me/u3a3.pdf">Assignment 3: Using IT Tools to Produce Management Information</a> - <b>Distinction</b></li>
+        </ul>
+
+        <br>
+        <h3><b>/</b> Unit 5: Managing Networks - Year 2</h3>
+        <p>
+            Grade: <b>Distinction</b>
+            <br>Unit Work:
+        </p>
+        <ul>
+            <li><a href="https://collegework.ghott.me/u5a1.pdf">Assignment 1: Network Managers</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u5a2.pdf">Assignment 2: Managing a Network</a> - <b>Distinction</b></li>
         </ul>
 
         <br>
@@ -94,6 +117,53 @@
         </ul>
 
         <br>
+        <h3><b>/</b> Unit 12 & 13: IT Technical Support / IT Systems Troubleshooting - Year 2</h3>
+        <p>
+            Grade: <b>Distinction</b>
+            <br>Unit Work:
+        </p>
+        <ul>
+            <li><a href="https://collegework.ghott.me/u1213a1.pdf">Assignment 1: Technical Support</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u1213a2.pdf">Assignment 2: Fault Finding and Solutions</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u1213a3.pdf">Assignment 3: Solving Faults and Keeping Records</a> - <b>Merit*</b></li>
+        </ul>
+
+        <br>
+        <h3><b>/</b> Unit 19: Computer Systems Architecture - Year 2</h3>
+        <p>
+            Grade: <b>Distinction</b>
+            <br>Unit Work:
+        </p>
+        <ul>
+            <li><a href="https://collegework.ghott.me/u19a1.pdf">Assignment 1: The Devil is in the Data</a> - <b>Merit*</b></li>
+            <li><a href="https://collegework.ghott.me/u19a2.pdf">Assignment 2: The Data Driver</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u19a3.pdf">Assignment 3: The Low Level Programmer</a> - <b>Distinction</b></li>
+        </ul>
+
+        <br>
+        <h3><b>/</b> Unit 24: Controlling Systems using IT - Year 2</h3>
+        <p>
+            Grade: <b>Distinction</b>
+            <br>Unit Work:
+        </p>
+        <ul>
+            <li><a href="https://collegework.ghott.me/u24a1.pdf">Assignment 1: Understanding Control Systems</a> - <b>Merit*</b></li>
+            <li><a href="https://collegework.ghott.me/u24a2.pdf">Assignment 2: Building Control Systems</a> - <b>Distinction</b></li>
+            <li><a href="https://github.com/georgeatsolihull/beam-sec">Beam Sec</a></li>
+        </ul>
+
+        <br>
+        <h3><b>/</b> Unit 25: Maintaining Computer Systems - Year 2</h3>
+        <p>
+            Grade: <b>Distinction</b>
+            <br>Unit Work:
+        </p>
+        <ul>
+            <li><a href="https://collegework.ghott.me/u25a1.pdf">Assignment 1: Trouble Free Systems</a> - <b>Merit*</b></li>
+            <li><a href="https://collegework.ghott.me/u25a2.pdf">Assignment 2: Maintaining Computer Systems</a> - <b>Distinction</b></li>
+        </ul>
+
+        <br>
         <h3><b>/</b> Unit 28: Website Production - Year 1</h3>
         <p>
             Grade: <b>Distinction</b>
@@ -107,6 +177,28 @@
         </ul>
 
         <br>
+        <h3><b>/</b> Unit 29: Installing and Upgrading Software - Year 2</h3>
+        <p>
+            Grade: <b>Distinction</b>
+            <br>Unit Work:
+        </p>
+        <ul>
+            <li><a href="https://collegework.ghott.me/u29a1.pdf">Assignment 1: Why Install or Upgrade?</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u29a2.pdf">Assignment 2: Plan and Implement an Installation and Upgrade</a> - <b>Merit*</b></li>
+        </ul>
+
+        <br>
+        <h3><b>/</b> Unit 32: Networked System Security - Year 2</h3>
+        <p>
+            Grade: <b>Distinction</b>
+            <br>Unit Work:
+        </p>
+        <ul>
+            <li><a href="https://collegework.ghott.me/u32a1.pdf">Assignment 1: Are we Safe?</a> - <b>Distinction</b></li>
+            <li><a href="https://collegework.ghott.me/u32a2.pdf">Assignment 2: Start Installing</a> - <b>Merit*</b></li>
+        </ul>
+
+        <br>
         <h3><b>/</b> Unit 36: Computer Game Platforms and Technology - Year 1</h3>
         <p>
             Grade: <b>Distinction</b>
@@ -116,6 +208,9 @@
             <li><a href="https://collegework.ghott.me/u36a1.pdf">Assignment 1: Making it Run</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u36a2.pdf">Assignment 2: Current Hardware Technologies</a> - <b>Distinction</b></li>
         </ul>
+
+        <br>
+        <i>*Maximum for assignment.</i>
     </div>
 </section>
 

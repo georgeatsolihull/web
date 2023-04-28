@@ -16,7 +16,7 @@
 
         <h3><b>/</b> My Time at College</h3>
         <p>
-            For my further education, I attended Solihull College. Whilst there, I was a Student Rep and a Wellbeing Ambassador. My course lastest for 2 years, spanning 18 units and 43 assignments. At the end of the first year, I was nominated for the Outstanding Student award. I finished my course in April 2023 with D*D*D*, the highest possible grade. 
+            For my further education, I attended Solihull College. Whilst there, I was a Student Rep and a Wellbeing Ambassador. My course lastest for 2 years, spanning 18 units and 43 assignments. At the end of the first year, I was given the Outstanding Student award. I finished my course in April 2023 with D*D*D*, the highest possible grade. 
         </p>
 
         <h3><b>/</b> My Work</h3>
