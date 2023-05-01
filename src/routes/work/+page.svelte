@@ -1,20 +1,22 @@
 <script lang="ts">
     import HeroTitle from '$lib/HeroTitle.svelte';
+    import BackBreadcrum from '$lib/BackBreadcrum.svelte';
 </script>    
 
 <svelte:head>
     <title>My Work | George's College Work</title>
 </svelte:head>
 
-<HeroTitle title="My Work" subtitle="All my college assignment work" colour="#233f56" text_colour="#ffffff"/>
+<HeroTitle title="My Work" subtitle="All my college assignment work" text_colour="#ffffff"/>
 <section class="gweb-text-layout gweb-link-grey">
     <div class="content">
-        <h1><b>/</b> Quick Note</h1>
+        <BackBreadcrum/>
+        <h1>Quick Note</h1>
         <p>
             This is a list of every unit that I did, including assignments and grades. You may notice my style differs a lot, I went from using a basic MS word template, to my own MS template to using LaTeX. I love my final LaTeX template, I think it looks the best out of them all. I also think the quality of my Year 1 work was pretty poor. I am loads happier with my Year 2 work.
         </p>
         
-        <h3><b>/</b> Unit 1: Communications and Employability Skills - Year 1</h3>
+        <h2>Unit 1: Communications and Employability Skills - Year 1</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -26,7 +28,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 2: Computer Systems - Year 1</h3>
+        <h2>Unit 2: Computer Systems - Year 1</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -37,7 +39,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 3: Information Systems - Year 2</h3>
+        <h2>Unit 3: Information Systems - Year 2</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -49,7 +51,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 5: Managing Networks - Year 2</h3>
+        <h2>Unit 5: Managing Networks - Year 2</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -60,7 +62,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 6: Software Design and Development - Year 1</h3>
+        <h2>Unit 6: Software Design and Development - Year 1</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -71,7 +73,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 7: Organizational Systems Security - Year 1</h3>
+        <h2>Unit 7: Organizational Systems Security - Year 1</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -83,7 +85,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 8: E-Commerce - Year 1</h3>
+        <h2>Unit 8: E-Commerce - Year 1</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -94,7 +96,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 9: Computer Networks - Year 1</h3>
+        <h2>Unit 9: Computer Networks - Year 1</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -106,7 +108,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 10: Communication Technologies - Year 1</h3>
+        <h2>Unit 10: Communication Technologies - Year 1</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -117,7 +119,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 12 & 13: IT Technical Support / IT Systems Troubleshooting - Year 2</h3>
+        <h2>Unit 12 & 13: IT Technical Support / IT Systems Troubleshooting - Year 2</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -129,7 +131,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 19: Computer Systems Architecture - Year 2</h3>
+        <h2>Unit 19: Computer Systems Architecture - Year 2</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -141,7 +143,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 24: Controlling Systems using IT - Year 2</h3>
+        <h2>Unit 24: Controlling Systems using IT - Year 2</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -153,7 +155,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 25: Maintaining Computer Systems - Year 2</h3>
+        <h2>Unit 25: Maintaining Computer Systems - Year 2</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -164,7 +166,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 28: Website Production - Year 1</h3>
+        <h2>Unit 28: Website Production - Year 1</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -177,7 +179,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 29: Installing and Upgrading Software - Year 2</h3>
+        <h2>Unit 29: Installing and Upgrading Software - Year 2</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -188,7 +190,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 32: Networked System Security - Year 2</h3>
+        <h2>Unit 32: Networked System Security - Year 2</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
@@ -199,7 +201,7 @@
         </ul>
 
         <br>
-        <h3><b>/</b> Unit 36: Computer Game Platforms and Technology - Year 1</h3>
+        <h2>Unit 36: Computer Game Platforms and Technology - Year 1</h2>
         <p>
             Grade: <b>Distinction</b>
             <br>Unit Work:
