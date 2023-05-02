@@ -193,7 +193,8 @@
         <h2>Unit 32: Networked System Security - Year 2</h2>
         <p>
             Grade: <b>Distinction</b>
-            <br>Unit Work:
+            <br><br>Disclaimer: In Assignment 2, one of the tasks was to secure a network using a GRE tunnel. <b>The implementation in this assignment is not secure.</b> This is because all data sent over the GRE is in plaintext. Sadly the insecure method used was required to pass the assignment.
+            <br><br>Unit Work:
         </p>
         <ul>
             <li><a href="https://collegework.ghott.me/u32a1.pdf">Assignment 1: Are we Safe?</a> - <b>Distinction</b></li>
