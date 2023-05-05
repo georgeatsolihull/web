@@ -11,7 +11,7 @@
     <div class="content">
         <h1>Welcome!</h1>
         <p>
-            Here you will find all the coursework and programming projects I completed whilst studying for my BTEC Nationals Level 3 Diploma in IT, following the Networking &amp; Systems Support pathway.
+            Here you will find all the coursework and programming projects I completed whilst studying for my BTEC Nationals Level 3 Diploma in IT, following the Networking &amp; System Support pathway.
         </p>
 
         <h2>My Time at College</h2>
