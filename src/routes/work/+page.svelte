@@ -11,7 +11,7 @@
 <section class="gweb-text-layout gweb-link-grey">
     <div class="content">
         <BackBreadcrum/>
-        <h1>Quick Note</h1>
+        <h2>Quick Note</h2>
         <p>
             This is a list of every unit that I did, including assignments and grades. You may notice my style differs a lot, I went from using a basic MS word template, to my own MS template to using LaTeX. I love my final LaTeX template, I think it looks the best out of them all. I also think the quality of my Year 1 work was pretty poor. I am loads happier with my Year 2 work.
         </p>
@@ -216,9 +216,3 @@
         <i>*Maximum for assignment.</i>
     </div>
 </section>
-
-<style lang="scss">
-    ul {
-        font-size: 20px;
-    }
-</style>

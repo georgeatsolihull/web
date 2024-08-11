@@ -9,7 +9,6 @@
 <HeroTitle title="George's College Work" subtitle="My college coursework and programming projects" text_colour="#ffffff"/>
 <section class="gweb-text-layout">
     <div class="content">
-        <h1>Welcome!</h1>
         <p>
             Here you will find all the coursework and programming projects I completed whilst studying for my BTEC Nationals Level 3 Diploma in IT, following the Networking &amp; System Support pathway.
         </p>
