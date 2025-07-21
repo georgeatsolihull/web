@@ -1,5 +1,5 @@
 <script lang="ts">
-    import '../app.scss';
+    import '../gweb.scss';
 </script>
 
 <main class="gweb-container">
@@ -9,11 +9,11 @@
 <footer class="gweb-footer footer-sticky">
     <div class="content footer-text has-text-centered">
         <div class="gweb-text-layout">
-            <p style="font-size: 15px;"><b>© George Hotten 2024</b></p>
+            <p style="font-size: 15px;"><b>© 2025 Hotten UK</b></p>
             <p style="font-size: 15px;" class="gweb-link-white">
-                <a href="https://github.com/georgeatsolihull/web" target="_blank" rel="noopener">source</a> &middot;
-                <a href="https://ghott.me" target="_blank" rel="noopener">personal site</a> &middot;
-                <a href="https://github.com/georgeatsolihull/" target="_blank" rel="noopener">github</a>
+                <a href="https://github.com/georgeatsolihull/">github</a> &middot;
+                <a href="https://hotten.uk">hotten.uk</a> &middot;
+                <a href="/legal">legal</a>
             </p>
         </div>
         <div class="footer-colours">

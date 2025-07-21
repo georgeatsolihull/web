@@ -8,7 +8,7 @@
 </svelte:head>
 
 <HeroTitle title="My Work" subtitle="All my college assignment work" text_colour="#ffffff"/>
-<section class="gweb-text-layout gweb-link-grey">
+<section class="gweb-text-layout">
     <div class="content">
         <BackBreadcrum/>
         <h2>Quick Note</h2>
@@ -21,7 +21,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u1a1.pdf">Assignment 1: Communication & Employment Attributes and Barriers</a> - <b>Merit*</b></li>
             <li><a href="https://collegework.ghott.me/u1a2.pdf">Assignment 2: Communication & Employment Personal Development Plans, reviewing documents and using IT to communicate technical information</a> - <b>Distinction</b></li>
             <li><a href="https://georgeatsolihull.github.io/blog/posts/barriers-to-communication/">Blog Post</a></li>
@@ -33,7 +33,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u2a1.pdf">Assignment 1: Decoding the Jargon</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u2a2.pdf">Assignment 2: The Best Solution</a> - <b>Merit*</b></li>
         </ul>
@@ -44,7 +44,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u3a1.pdf">Assignment 1: Good Information</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u3a2.pdf">Assignment 2: The Issues Related to the Use of Information</a> - <b>Merit*</b></li>
             <li><a href="https://collegework.ghott.me/u3a3.pdf">Assignment 3: Using IT Tools to Produce Management Information</a> - <b>Distinction</b></li>
@@ -56,7 +56,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u5a1.pdf">Assignment 1: Network Managers</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u5a2.pdf">Assignment 2: Managing a Network</a> - <b>Distinction</b></li>
         </ul>
@@ -67,7 +67,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u6a1.pdf">Assignment 1: Which Language?</a> - <b>Merit*</b></li>
             <li><a href="https://collegework.ghott.me/u6a2.pdf">Assignment 2: Design Workshop</a> - <b>Distinction</b></li>
         </ul>
@@ -78,7 +78,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u7a1.pdf">Assignment 1: Security Trade Show</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u7a2.pdf">Assignment 2: Systems Security Issues</a> - <b>Distinction</b></li>
             <li><a href="https://github.com/georgeatsolihull/btec-aes">My Kotlin AES implementation</a></li>
@@ -90,7 +90,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u8a1.pdf">Assignment 1: Why e-commerce?</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u8a2.pdf">Assignment 2: Consumer Guide</a> - <b>Distinction</b></li>
         </ul>
@@ -101,7 +101,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u9a1.pdf">Assignment 1: Types of Networks and Network Protocols</a> - <b>Merit*</b></li>
             <li><a href="https://collegework.ghott.me/u9a2.pdf">Assignment 2: Network Hardware</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u9a3.pdf">Assignment 3: Network Services and Security</a> - <b>Distinction</b></li>
@@ -113,7 +113,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u10a1.pdf">Assignment 1: From End to End</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u10a2.pdf">Assignment 2: Getting the Message</a> - <b>Distinction</b></li>
         </ul>
@@ -124,7 +124,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u1213a1.pdf">Assignment 1: Technical Support</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u1213a2.pdf">Assignment 2: Fault Finding and Solutions</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u1213a3.pdf">Assignment 3: Solving Faults and Keeping Records</a> - <b>Merit*</b></li>
@@ -136,7 +136,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u19a1.pdf">Assignment 1: The Devil is in the Data</a> - <b>Merit*</b></li>
             <li><a href="https://collegework.ghott.me/u19a2.pdf">Assignment 2: The Data Driver</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u19a3.pdf">Assignment 3: The Low Level Programmer</a> - <b>Distinction</b></li>
@@ -148,7 +148,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u24a1.pdf">Assignment 1: Understanding Control Systems</a> - <b>Merit*</b></li>
             <li><a href="https://collegework.ghott.me/u24a2.pdf">Assignment 2: Building Control Systems</a> - <b>Distinction</b></li>
             <li><a href="https://github.com/georgeatsolihull/beam-sec">Beam Sec</a></li>
@@ -160,7 +160,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u25a1.pdf">Assignment 1: Trouble Free Systems</a> - <b>Merit*</b></li>
             <li><a href="https://collegework.ghott.me/u25a2.pdf">Assignment 2: Maintaining Computer Systems</a> - <b>Distinction</b></li>
         </ul>
@@ -171,7 +171,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u28a1.pdf">Assignment 1: Creating the Website</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u28a2.pdf">Assignment 2: How the Web Works</a> - <b>Distinction</b></li>            
             <li><a href="https://github.com/georgeatsolihull/surya">Surya Real Estate</a></li>            
@@ -184,7 +184,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u29a1.pdf">Assignment 1: Why Install or Upgrade?</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u29a2.pdf">Assignment 2: Plan and Implement an Installation and Upgrade</a> - <b>Merit*</b></li>
         </ul>
@@ -196,7 +196,7 @@
             <br><br>Disclaimer: In Assignment 2, one of the tasks was to secure a network using a GRE tunnel. <b>The implementation in this assignment is not secure.</b> This is because all data sent over the GRE is in plaintext. Sadly the insecure method used was required to pass the assignment.
             <br><br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u32a1.pdf">Assignment 1: Are we Safe?</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u32a2.pdf">Assignment 2: Start Installing</a> - <b>Merit*</b></li>
         </ul>
@@ -207,7 +207,7 @@
             Grade: <b>Distinction</b>
             <br>Unit Work:
         </p>
-        <ul>
+        <ul class="gweb-link-black">
             <li><a href="https://collegework.ghott.me/u36a1.pdf">Assignment 1: Making it Run</a> - <b>Distinction</b></li>
             <li><a href="https://collegework.ghott.me/u36a2.pdf">Assignment 2: Current Hardware Technologies</a> - <b>Distinction</b></li>
         </ul>
